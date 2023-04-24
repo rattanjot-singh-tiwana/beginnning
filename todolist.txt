@@ -3,3 +3,6 @@
 3.test
 4.deploy
 5.test again
+6.deploy to devlopment environment
+7.release
+8.monitoring and maintenance 
