@@ -1,0 +1,4 @@
+1.make article
+2.write code
+3.test
+4.deploy
